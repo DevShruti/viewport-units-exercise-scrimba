@@ -1,0 +1,15 @@
+header {
+  background: lightblue;
+  padding: 1em;
+
+  /* width: 200px;*/
+  /* width: 50%;*/
+  /* width: 450px;
+    height: 50%; 
+    height will not work but if we set height on body as 500px then it will work. 
+    also setting height can be dangerous as if small it can make the content overflow.*/
+  /* height: 100vh;*/
+  /* width: 50% or 50vw;
+     height: 75vh;*/
+  /* height: 25vmin;*/
+}
